@@ -38,6 +38,6 @@ GitHub: https://github.com/deekshanacs/sentiment-classifier
 ---
 
 ## 📫 Contact
-GitHub: https://github.com/YOUR-USERNAME
-LinkedIn: (will add soon)
-Email: (will add soon)
+GitHub: https://github.com/deekshanacs
+LinkedIn: https://www.linkedin.com/in/deekshana-c-s-921564292/
+Email: deekshanacs8@gmail.com
